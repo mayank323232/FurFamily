@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297143533727",
+    "project_id": "furfamily-fd44b",
+    "storage_bucket": "furfamily-fd44b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297143533727:android:f063bf1b419a7df552a2aa",
+        "android_client_info": {
+          "package_name": "com.example.fur_family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297143533727-ifs7481v5d4408r8bnfklq9ejvphg9us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSR63jdYm31vebQVkV2lT30f-tXIrJlfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297143533727-ifs7481v5d4408r8bnfklq9ejvphg9us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
